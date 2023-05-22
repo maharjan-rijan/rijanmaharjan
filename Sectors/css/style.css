@@ -117,8 +117,8 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: #e9e8e6;
-  box-shadow: 0px 0px 25px 0 rgba(0, 0, 0, 0.08);
+  background: #ffffff;
+  box-shadow: 0px 0px 25px 0 rgb(0, 0, 0);
   z-index: 997;
   padding: 15px 0;
 }
@@ -155,7 +155,7 @@ h6 {
 }
 
 .header-social-links a {
-  color: #6f6f6f;
+  color: #34b7a7;
   padding-left: 6px;
   display: inline-block;
   line-height: 0px;
@@ -309,7 +309,7 @@ h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #222222;
+  color: black;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -421,7 +421,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../image/hero-bg.jpg") top right;
+  background: url("../image/hero-bg.jpg") top center;
   background-size: cover;
 }
 
